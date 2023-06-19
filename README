@@ -1,0 +1,6 @@
+Vivaldi multimedia Codecs and Widevine for armv7
+
+I think the multimedia(ffmpeg) codecs for vivaldi were gotten from a debian or ubuntu package I forget..
+
+Use these files to enable multimedia and widevine or as a guide for configuration syntax.
+
